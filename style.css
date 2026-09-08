@@ -31,3 +31,8 @@ nav a {
   margin-right: 20px;
   text-decoration: none;
 }
+.subtitle {
+  font-size: 22px;
+  margin-top: -20px;
+  margin-bottom: 40px;
+}
