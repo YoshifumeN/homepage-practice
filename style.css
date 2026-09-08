@@ -24,11 +24,13 @@ p {
 li {
   margin-bottom: 8px;
 }
+
 nav {
   margin-bottom: 40px;
 }
 
 nav a {
-  margin-right: 20px;
+  margin-right: 24px;
   text-decoration: none;
+  font-weight: bold;
 }
