@@ -135,3 +135,8 @@ nav a {
   width: 100%;
   height: auto;
 }
+.publication-award {
+  font-size: 14px;
+  margin-top: 4px;
+  font-weight: bold;
+}
