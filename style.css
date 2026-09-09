@@ -71,3 +71,7 @@ nav a {
     align-items: flex-start;
   }
 }
+.presentations li {
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
