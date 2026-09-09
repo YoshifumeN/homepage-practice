@@ -77,8 +77,13 @@ nav a {
 }
 @media (max-width: 600px) {
   .profile-header {
-    flex-direction: column;
-    align-items: flex-start;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .profile-photo {
+    width: 180px;
+    height: auto;
   }
 }
 .presentations li {
