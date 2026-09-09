@@ -91,6 +91,18 @@ nav a {
     width: 180px;
     height: auto;
   }
+
+  nav {
+    display: flex;
+    gap: 12px;
+    padding: 12px 0;
+  }
+
+  nav a {
+    margin-right: 0;
+    font-size: 14px;
+    white-space: nowrap;
+  }
 }
 .presentations li {
   margin-bottom: 20px;
