@@ -64,3 +64,9 @@ nav a {
 .profile-info p {
   margin-top: 8px;
 }
+@media (max-width: 600px) {
+  .profile-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
