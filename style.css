@@ -36,33 +36,34 @@ nav a {
   margin-top: -20px;
   margin-bottom: 40px;
 }
-.profile-photo {
-  width: 180px;
-  border-radius: 8px;
-  margin-bottom: 20px;
-}
+
 .publications li {
   margin-bottom: 20px;
   line-height: 1.6;
 }
 .profile-header {
-  display: flex;
-  align-items: center;
+  display: grid;
+  grid-template-columns: auto 1fr;
   gap: 40px;
+  align-items: stretch;
   margin-bottom: 50px;
 }
 
 .profile-photo {
   width: 180px;
+  height: 100%;
+  object-fit: cover;
   border-radius: 8px;
 }
 
 .profile-info h1 {
   margin-top: 0;
+  margin-bottom: 12px;
 }
 
 .profile-info p {
   margin-top: 8px;
+  margin-bottom: 0;
 }
 @media (max-width: 600px) {
   .profile-header {
