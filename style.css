@@ -14,10 +14,11 @@ h2 {
   margin-bottom: 10px;
 
   position: sticky;
-　top: 50px;
+  top: 50px;
   background: white;
   z-index: 900;
   padding: 10px 0 6px;
+  border-bottom: 1px solid #ddd;
 }
 
 p {
