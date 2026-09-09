@@ -1,8 +1,8 @@
 body {
   font-family: Arial, sans-serif;
   max-width: 800px;
-  margin: 60px auto;
-  padding: 0 20px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
 }
 
 h1 {
@@ -24,7 +24,12 @@ li {
 }
 
 nav {
+  position: sticky;
+  top: 0;
+  background: white;
+  padding: 15px 0;
   margin-bottom: 40px;
+  z-index: 1000;
 }
 
 nav a {
