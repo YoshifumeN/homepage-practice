@@ -131,3 +131,7 @@ nav a {
   margin-top: 4px;
   font-weight: bold;
 }
+.poster-image {
+  width: 100%;
+  height: auto;
+}
