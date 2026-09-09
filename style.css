@@ -121,3 +121,13 @@ nav a {
   font-size: 14px;
   margin-top: 6px;
 }
+.presentation-links {
+  font-size: 14px;
+  margin-top: 6px;
+}
+
+.presentation-award {
+  font-size: 14px;
+  margin-top: 4px;
+  font-weight: bold;
+}
