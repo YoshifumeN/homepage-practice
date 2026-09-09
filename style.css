@@ -108,6 +108,10 @@ nav a {
     font-size: 14px;
     white-space: nowrap;
   }
+
+  h2 {
+    position: static;
+  }
 }
 .presentations li {
   margin-bottom: 20px;
