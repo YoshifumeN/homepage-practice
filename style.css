@@ -140,3 +140,13 @@ nav a {
   margin-top: 4px;
   font-weight: bold;
 }
+.research-figure {
+  width: 100%;
+  height: auto;
+  margin-top: 15px;
+}
+
+.figure-source {
+  font-size: 13px;
+  margin-top: 6px;
+}
