@@ -140,6 +140,16 @@ nav a {
   margin-top: 4px;
   font-weight: bold;
 }
+.research-study {
+  margin-top: 35px;
+  margin-bottom: 55px;
+}
+
+.research-study h3 {
+  margin-bottom: 10px;
+  color: darkgreen;
+}
+
 .research-figure {
   width: 100%;
   height: auto;
@@ -148,5 +158,6 @@ nav a {
 
 .figure-source {
   font-size: 13px;
+  line-height: 1.5;
   margin-top: 6px;
 }
